@@ -1,13 +1,18 @@
 <div align="center">
-  <h1 align="center">Hypotesis Testing and Data Analysis</h1>
+  <h1 align="center">Wine Analysis</h1>
 
   <p align="center">
-    simple data analysis and hypotesis testing
+    data analysis and hypotesis testing
     <br />
   </p>
 </div>
 
 > Created to fulfill Tugas Besar IF2220 Probabilitas dan Statistika Teknik Informatika ITB
+
+## Tech Stack
+- numpy
+- pandas
+- matplotlib
 
 <!-- CONTACT -->
 ## Contact Author
